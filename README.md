@@ -13,5 +13,5 @@ This project demonstrates how to handle a calendar or datepicker using Selenium 
 1. **Clone the repository**
 
    ```sh
-   git clone https://github.com/Abdul-Firoz-Khan/EnterKeyExample.git
-   cd EnterKeyExample
+   git clone https://github.com/Abdul-Firoz-Khan/Datepicker-CalendarDemo.git
+   cd Datepicker-CalendarDemo
