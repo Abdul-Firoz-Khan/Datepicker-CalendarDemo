@@ -25,8 +25,8 @@ These dependencies are managed using Maven.
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/HandlingCalendarOrDatepicker.git
-   cd HandlingCalendarOrDatepicker
+   git clone https://github.com/Abdul-Firoz-Khan/Datepicker-CalendarDemo.git
+   cd Datepicker-CalendarDemo
    ```
 
 2. **Install Dependencies**
